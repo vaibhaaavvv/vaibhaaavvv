@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vaibhav%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=40" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
+
 <h3 align="center">
   Backend Software Engineer | Java • Spring Boot • AWS • Distributed Systems
 </h3>
