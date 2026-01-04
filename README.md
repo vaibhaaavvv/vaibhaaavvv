@@ -31,7 +31,7 @@
 ## 🚀 About Me
 
 🎓 Master’s student in **Computer Science & Engineering** at **University at Buffalo (SUNY)**  
-💼 **4+ years** of industry experience building **SaaS tools** and **enterprise-scale ad-serving platforms**  
+💼 **5+ years** of industry experience building **SaaS tools** and **enterprise-scale ad-serving platforms**  
 ⚙️ Backend-focused engineer specializing in **Java, Spring Boot, AWS, Databases & Distributed Systems**  
 🎯 Actively seeking **Full-time Backend Software Engineer** roles  
 
